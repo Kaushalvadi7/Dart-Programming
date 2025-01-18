@@ -52,4 +52,5 @@ Simple yet impactful programs showcasing Dart concepts.
 
 # 🌐 Contact
 Connect with me for queries, suggestions, or discussions:
+
 GitHub Profile: Kaushalvadi7
